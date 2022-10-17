@@ -2133,6 +2133,11 @@ input, select, textarea {
 				width: 100%;
 			}
 
+		.image.barber {
+			max-width: 40%;
+			margin: 0 auto 2em auto;
+		}
+
 /* List */
 
 	ol {
